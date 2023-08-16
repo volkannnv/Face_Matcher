@@ -1,4 +1,4 @@
-working directory böyle olması lazım kodun directory'si ona göre ayarlı, repo'nun içinde repo'yla aynı Face_Matcher klasörü var. scriptler de onun içinde
+working directory böyle olması lazım kodun directory'si ona göre ayarlı tabiki sizin repo'yu nereye clone'ladığınıza göre vs. değişir, repo'nun içinde repo'yla aynı Face_Matcher klasörü var. scriptler de onun içinde
 ![Adsız](https://github.com/volkannnv/Face_Matcher/assets/127948297/2d93bc1c-68af-4025-9ab2-01680e334564)
 
 
