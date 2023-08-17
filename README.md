@@ -4,6 +4,6 @@ working directory böyle olması lazım kodun directory'si ona göre ayarlı tab
 
 images klasöründe benim fotoğraflatım var, kendi fotoğraflarınızla denemek isterseniz ister fotoğrafları images klasörüne atıp isimlerini extract ve taken olarak değiştirin ya da fotoğrafı atıp kodun içindeki dosya ismini değiştirin.
 
-dlib ile yazdığım scripti değiştirmişim, github'a commit'lemeden önce olduğu için orda ne oldu veya neden oldu hatırlamıyorum. o konuda emin değilim ama çalışıyor ve aşağı yukarı aynı sürede çıktı veriyor
+dlib ile çalışan 2 ayrı script var, biri face_recognition kullanıyor. diğeri ise pre-trained model kullanıyor. pre-trained model kullanan Face_Matcher_dlib2 daha hızlı
 
 mtcnn kullanan scripti ilk kullanmaya çalıştığınızda pretrained modeli indiriyor 100mb civarı bir dosya. ben ilk denediğimde indirdikten sonra kod hata verdiği için şu anki haliyle çıktı verir mi bilmiyorum ama vermezse tekrar çalıştırınca verir diye umuyorum
