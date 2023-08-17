@@ -4,4 +4,4 @@ opencv_python==4.8.0.76
 opencv_python_headless==4.8.0.76
 torch==2.0.1+cu117
 torchvision==0.15.2+cu117
-opencv_python==4.5.4.60
+~pencv_python==4.5.4.60
